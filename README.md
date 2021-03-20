@@ -1,6 +1,11 @@
 # k-short
 
 
+[⚠️ this tool for educational purposes only..if you use it,take it on your own responsible ⚠️]
+
+
+
+
 apt update && apt upgrade
 
 apt install python
